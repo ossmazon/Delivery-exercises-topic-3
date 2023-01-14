@@ -1,10 +1,10 @@
 # Delivery-exercises-topic-3
  
-Crear un bucle que permita concatenar textos e imprimir el resultado final por consola.
-Concatenar nombres
-Los textos pueden venir de un array String
-String[] nombres = {"", "", "", ""};
-Separados por un espacio
-Se puede usar el método concat o si no el operador + Ejemplo
-"Pepe", "Juan", "Antonio" Resultado:
-Pepe Juan Anthony (en la misma linea)
+Create a loop that allows you to concatenate texts and print the final result on the console.
+concatenate names
+Texts can come from a String array
+String[] names = {"", "", "", ""};
+separated by a space
+You can use the concat method or else the operator + Example
+"Pepe", "Juan", "Antonio" Result:
+Pepe Juan Anthony (in the same line)
